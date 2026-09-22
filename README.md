@@ -18,4 +18,4 @@ A 3-page static website (Home, Televisions, About Us) built for COS30045 Data Vi
 
 
 ## Deployment
-Hosted on Vercel: `https://your-project-name.vercel.app/`
+Hosted on Vercel: `https://appliance-energy-website-pink.vercel.app/`
